@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="Register">Register</string>
+    <string name="do_not_have_account">Do not have Account</string>
+    <string name="login">login</string>
+    <string name="Passworld">Passworld</string>
+    <string name="gmail">gmail</string>
+    <string name="user_name">User Name</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="signin">Signin</string>
+    <string name="no_anypost">No anypost</string>
+    <string name="add_journal">Add Journal</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
